@@ -18,4 +18,3 @@ fs.readdir('./', 'utf8', function(err, data) {
         console.log('Content download to file "content.txt"'.red);
     });
 });
-
